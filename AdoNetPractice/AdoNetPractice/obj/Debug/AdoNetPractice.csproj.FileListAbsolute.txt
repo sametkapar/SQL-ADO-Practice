@@ -1,0 +1,7 @@
+C:\Users\KAPAR\source\repos\AdoNetPractice\AdoNetPractice\bin\Debug\AdoNetPractice.exe.config
+C:\Users\KAPAR\source\repos\AdoNetPractice\AdoNetPractice\bin\Debug\AdoNetPractice.exe
+C:\Users\KAPAR\source\repos\AdoNetPractice\AdoNetPractice\bin\Debug\AdoNetPractice.pdb
+C:\Users\KAPAR\source\repos\AdoNetPractice\AdoNetPractice\obj\Debug\AdoNetPractice.csproj.AssemblyReference.cache
+C:\Users\KAPAR\source\repos\AdoNetPractice\AdoNetPractice\obj\Debug\AdoNetPractice.csproj.CoreCompileInputs.cache
+C:\Users\KAPAR\source\repos\AdoNetPractice\AdoNetPractice\obj\Debug\AdoNetPractice.exe
+C:\Users\KAPAR\source\repos\AdoNetPractice\AdoNetPractice\obj\Debug\AdoNetPractice.pdb
